@@ -1,0 +1,64 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+p{
+    font-family: verdana;
+    font-size: 15px;
+}
+.isha{
+    text-align: center;
+    text-decoration-line:overline ;
+    
+}
+.mansi{
+    text-align: left;
+    text-decoration-line:line-through ;
+    text-decoration-color:blueviolet ;
+}
+.sahil{
+    text-align: right;
+    text-decoration-line:underline ;
+}
+.a{
+    text-align-last:right ;
+    text-decoration-line:overline underline ;
+}
+.c{
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+.d{
+    vertical-align: baseline;
+    text-decoration-line: underline;
+    text-decoration-style:dashed ;
+}
+.x{
+    vertical-align: text-top;
+    vertical-align: sub;
+}
+.b{
+    text-decoration-line:underline ;
+    text-decoration-style:double ;
+}
+.e{
+    text-decoration-line:underline ;
+    text-decoration-thickness: 25% ;
+}
+.f{
+    text-transform: capitalize;
+    line-height: 1.8;
+}
+.g{
+    text-indent: 100px;
+    letter-spacing: 3px;
+}
+.h{
+    word-spacing: 10px;
+}
+.i{
+    white-space: nowrap;
+}
