@@ -1,0 +1,65 @@
+.a{
+    border-style: dotted;
+    border-width: 5px;
+}
+.dash{
+    border-style: dashed;
+    border-color: aquamarine;
+
+}
+.solid{
+    border-style: solid;
+    border-width: medium;
+}
+.double{
+    border-style: double;
+    border-color: blue;
+}
+.groove{
+    border-style: groove;
+}
+.rigde{
+    border-style: ridge;
+}
+.inset{
+    border-style: inset;
+}
+.outset{
+    border-style: outset;
+}
+.b{
+    border-top-style: dashed;
+    border-left-style: double;
+    border-right-style: double ;
+    border-bottom-style: dashed;
+}
+.c{
+    border: 5px solid red;
+}
+.normal{
+    border: 2px solid palevioletred;
+  padding: 5px;
+}
+.round{
+    border: 2px solid sienna;
+  border-radius: 5px;
+  padding: 5px;
+}
+.rounded{
+    border: 2px solid mediumspringgreen;
+  border-radius: 8px;
+  padding: 5px;
+}
+.roundest{
+    border: 2px solid magenta;
+  border-radius: 12px;
+  padding: 5px;
+}
+.d{
+    border: 2px solid red;
+  border-radius: 100px;
+  padding: 50px;
+  width: 100px;
+  height: 100px;
+  
+}

@@ -1,0 +1,30 @@
+.a {
+    position: relative;
+    z-index: 1;
+    background-color: blue;
+    border: 2px solid black;
+    height: 200px;
+    margin: 30px;
+    width: 700px;
+    left: 20px;
+  }
+  
+  .b{
+    position: absolute;
+    z-index: 2; 
+    background: lightgray;
+    height: 150px;  
+    width: 50%;
+    left: 100px;
+    top: 80px;
+  }
+  
+  .c{
+    position: absolute;
+    z-index: 3; 
+    background: lightgreen;
+    width: 35%;
+    left: 270px;
+    top: 150px;
+    height: 100px;
+  }
